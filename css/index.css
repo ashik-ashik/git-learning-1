@@ -22,12 +22,14 @@
 .para{
   width: 80%;
   margin: 0 auto;
-  padding: 50px 0;
+  padding: 50px 20px;
   background: #ff8c00a1;
 }
 .para .para-1,
 .para .para-2{
-  font-size: 13px;
+  font-size: 16px;
   font-family: 'Poppins';
   color: #222;
+  margin-top: 30px;
+  text-align: justify;
 }
