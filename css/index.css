@@ -19,3 +19,15 @@
   font-size: 30px;
   font-variant: small-caps;
 }
+.para{
+  width: 80%;
+  margin: 0 auto;
+  padding: 50px 0;
+  background: #ff8c00a1;
+}
+.para .para-1,
+.para .para-2{
+  font-size: 13px;
+  font-family: 'Poppins';
+  color: #222;
+}
