@@ -42,11 +42,15 @@
 #image-sec .box{
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: stretch;
+  height: 350px;
 }
 #image-sec .box [class*='img']{
   flex-basis: 33.33%;
+  padding: 10px;
+  height: 100%;
 }
 img{
-  max-width: 100%;
+  width: 100%;
+  height: 100%;
 }
