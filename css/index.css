@@ -130,3 +130,16 @@ img{
   font-size: 16px;
   margin: 10px 0;
 }
+.para-xx{
+  padding: 60px 0;
+  background: #222;
+}
+.para-xx{
+  color: #fff;
+  font-size: 16;
+  font-weight: 600;
+  font-family: 'muli';
+  columns: 3 ;
+  column-gap: 35px;
+  column-rule: dashed #fff;
+}
